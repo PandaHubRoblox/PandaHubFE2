@@ -1,0 +1,3 @@
+local keyA = "Testor"
+
+return keyA
